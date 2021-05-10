@@ -1,6 +1,11 @@
 <h1 align="center"> <i>Enterobacter cloacae</i> complex visualization</h1>
 
+
+
 - **Visualization of the average spectra Matrix-Assisted Laser Desorption Ionization-Time Of Flight Mass Spectrometry (MALDI-TOF MS) of the different species of *Enterobacter cloacae* complex using [MALDIquant](https://cran.r-project.org/web/packages/MALDIquant/index.html) [1], MALDIrppa [2] and [plotly](https://cran.r-project.org/web/packages/plotly/index.html) [3] R packages is available [here](https://agodmer.github.io/ECC/visualisation/ECC_species_alignment).**
+  - For information concerning this visualization : A. godmer [alexandre.godmer@aphp.fr](alexandre.godmer@aphp.fr)
+
+---
 
 - This work was performed for article (Article in submission) : 
 
@@ -22,9 +27,7 @@ Alexandre Godmer<sup>a</sup>,<sup>b</sup> , Yahia Benzerara<sup>a</sup>, Anne CÃ
 
 <sup>#</sup> Address correspondence to Alexandra Aubry, [alexandra.aubry@sorbonne-universite.fr](alexandra.aubry@sorbonne-universite.fr)
 
-
-
-- For information concerning this visualization **Author** : A. godmer [alexandre.godmer@aphp.fr](alexandre.godmer@aphp.fr)
+---
 
 ## References
 
